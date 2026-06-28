@@ -23,7 +23,7 @@ Designed for business stakeholders, the dashboard consolidates key operational m
 
 # Dashboard Preview
 
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
 
 ---
 
